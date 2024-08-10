@@ -11,8 +11,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   TabComponent: () => (/* binding */ TabComponent)
 /* harmony export */ });
-/* harmony import */ var C_Users_ghabr_Documents_Angular_ng_weather_src_app_Tab_tab_component_ts_css_ngResource_C_Users_ghabr_Documents_Angular_ng_weather_node_modules_ngtools_webpack_src_loaders_inline_resource_js_data_CiAgICAudGFiLWNvbnRlbnQgewogICAgICBwYWRkaW5nOiAxMHB4OwogICAgICBib3JkZXI6IDFweCBzb2xpZCAjY2NjOwogICAgICBib3JkZXItdG9wOiBub25lOwogICAgfQogIA_3D_3D_C_Users_ghabr_Documents_Angular_ng_weather_src_app_Tab_tab_component_ts__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./src/app/Tab/tab.component.ts.css?ngResource!=!./node_modules/@ngtools/webpack/src/loaders/inline-resource.js?data=CiAgICAudGFiLWNvbnRlbnQgewogICAgICBwYWRkaW5nOiAxMHB4OwogICAgICBib3JkZXI6IDFweCBzb2xpZCAjY2NjOwogICAgICBib3JkZXItdG9wOiBub25lOwogICAgfQogIA%3D%3D!./src/app/Tab/tab.component.ts */ 1828);
-/* harmony import */ var C_Users_ghabr_Documents_Angular_ng_weather_src_app_Tab_tab_component_ts_css_ngResource_C_Users_ghabr_Documents_Angular_ng_weather_node_modules_ngtools_webpack_src_loaders_inline_resource_js_data_CiAgICAudGFiLWNvbnRlbnQgewogICAgICBwYWRkaW5nOiAxMHB4OwogICAgICBib3JkZXI6IDFweCBzb2xpZCAjY2NjOwogICAgICBib3JkZXItdG9wOiBub25lOwogICAgfQogIA_3D_3D_C_Users_ghabr_Documents_Angular_ng_weather_src_app_Tab_tab_component_ts__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(C_Users_ghabr_Documents_Angular_ng_weather_src_app_Tab_tab_component_ts_css_ngResource_C_Users_ghabr_Documents_Angular_ng_weather_node_modules_ngtools_webpack_src_loaders_inline_resource_js_data_CiAgICAudGFiLWNvbnRlbnQgewogICAgICBwYWRkaW5nOiAxMHB4OwogICAgICBib3JkZXI6IDFweCBzb2xpZCAjY2NjOwogICAgICBib3JkZXItdG9wOiBub25lOwogICAgfQogIA_3D_3D_C_Users_ghabr_Documents_Angular_ng_weather_src_app_Tab_tab_component_ts__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_src_app_Tab_tab_component_ts_css_ngResource_C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_node_modules_ngtools_webpack_src_loaders_inline_resource_js_data_CiAgICAudGFiLWNvbnRlbnQgewogICAgICBwYWRkaW5nOiAxMHB4OwogICAgICBib3JkZXI6IDFweCBzb2xpZCAjY2NjOwogICAgICBib3JkZXItdG9wOiBub25lOwogICAgfQogIA_3D_3D_C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_src_app_Tab_tab_component_ts__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./src/app/Tab/tab.component.ts.css?ngResource!=!./node_modules/@ngtools/webpack/src/loaders/inline-resource.js?data=CiAgICAudGFiLWNvbnRlbnQgewogICAgICBwYWRkaW5nOiAxMHB4OwogICAgICBib3JkZXI6IDFweCBzb2xpZCAjY2NjOwogICAgICBib3JkZXItdG9wOiBub25lOwogICAgfQogIA%3D%3D!./src/app/Tab/tab.component.ts */ 1828);
+/* harmony import */ var C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_src_app_Tab_tab_component_ts_css_ngResource_C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_node_modules_ngtools_webpack_src_loaders_inline_resource_js_data_CiAgICAudGFiLWNvbnRlbnQgewogICAgICBwYWRkaW5nOiAxMHB4OwogICAgICBib3JkZXI6IDFweCBzb2xpZCAjY2NjOwogICAgICBib3JkZXItdG9wOiBub25lOwogICAgfQogIA_3D_3D_C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_src_app_Tab_tab_component_ts__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_src_app_Tab_tab_component_ts_css_ngResource_C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_node_modules_ngtools_webpack_src_loaders_inline_resource_js_data_CiAgICAudGFiLWNvbnRlbnQgewogICAgICBwYWRkaW5nOiAxMHB4OwogICAgICBib3JkZXI6IDFweCBzb2xpZCAjY2NjOwogICAgICBib3JkZXItdG9wOiBub25lOwogICAgfQogIA_3D_3D_C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_src_app_Tab_tab_component_ts__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ 1699);
 var __decorate = undefined && undefined.__decorate || function (decorators, target, key, desc) {
   var c = arguments.length,
@@ -22,7 +22,6 @@ var __decorate = undefined && undefined.__decorate || function (decorators, targ
   return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 
-// tab.component.ts
 
 let TabComponent = class TabComponent {
   constructor() {
@@ -51,7 +50,7 @@ TabComponent = __decorate([(0,_angular_core__WEBPACK_IMPORTED_MODULE_1__.Compone
       <ng-content></ng-content>
     </div>
   `,
-  styles: [(C_Users_ghabr_Documents_Angular_ng_weather_src_app_Tab_tab_component_ts_css_ngResource_C_Users_ghabr_Documents_Angular_ng_weather_node_modules_ngtools_webpack_src_loaders_inline_resource_js_data_CiAgICAudGFiLWNvbnRlbnQgewogICAgICBwYWRkaW5nOiAxMHB4OwogICAgICBib3JkZXI6IDFweCBzb2xpZCAjY2NjOwogICAgICBib3JkZXItdG9wOiBub25lOwogICAgfQogIA_3D_3D_C_Users_ghabr_Documents_Angular_ng_weather_src_app_Tab_tab_component_ts__WEBPACK_IMPORTED_MODULE_0___default())]
+  styles: [(C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_src_app_Tab_tab_component_ts_css_ngResource_C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_node_modules_ngtools_webpack_src_loaders_inline_resource_js_data_CiAgICAudGFiLWNvbnRlbnQgewogICAgICBwYWRkaW5nOiAxMHB4OwogICAgICBib3JkZXI6IDFweCBzb2xpZCAjY2NjOwogICAgICBib3JkZXItdG9wOiBub25lOwogICAgfQogIA_3D_3D_C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_src_app_Tab_tab_component_ts__WEBPACK_IMPORTED_MODULE_0___default())]
 })], TabComponent);
 
 
@@ -68,11 +67,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   TabsComponent: () => (/* binding */ TabsComponent)
 /* harmony export */ });
-/* harmony import */ var C_Users_ghabr_Documents_Angular_ng_weather_src_app_Tab_tabs_component_ts_css_ngResource_C_Users_ghabr_Documents_Angular_ng_weather_node_modules_ngtools_webpack_src_loaders_inline_resource_js_data_CiAgICAudGFicyB7CiAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNjY2M7CiAgICB9CiAgICAudGFiLXRpdGxlcyB7CiAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjY2NjOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2IHsKICAgICAgcGFkZGluZzogMTBweDsKICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2LmFjdGl2ZSB7CiAgICAgIGJhY2tncm91bmQtY29sb3I6ICNmMWYxZjE7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCB3aGl0ZTsKICAgIH0KICAgIC5jbG9zZSB7CiAgICAgIG1hcmdpbi1sZWZ0OiAxMHB4OwogICAgICBjb2xvcjogcmVkOwogICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICB9CiAg_C_Users_ghabr_Documents_Angular_ng_weather_src_app_Tab_tabs_component_ts__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./src/app/Tab/tabs.component.ts.css?ngResource!=!./node_modules/@ngtools/webpack/src/loaders/inline-resource.js?data=CiAgICAudGFicyB7CiAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNjY2M7CiAgICB9CiAgICAudGFiLXRpdGxlcyB7CiAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjY2NjOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2IHsKICAgICAgcGFkZGluZzogMTBweDsKICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2LmFjdGl2ZSB7CiAgICAgIGJhY2tncm91bmQtY29sb3I6ICNmMWYxZjE7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCB3aGl0ZTsKICAgIH0KICAgIC5jbG9zZSB7CiAgICAgIG1hcmdpbi1sZWZ0OiAxMHB4OwogICAgICBjb2xvcjogcmVkOwogICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICB9CiAg!./src/app/Tab/tabs.component.ts */ 9193);
-/* harmony import */ var C_Users_ghabr_Documents_Angular_ng_weather_src_app_Tab_tabs_component_ts_css_ngResource_C_Users_ghabr_Documents_Angular_ng_weather_node_modules_ngtools_webpack_src_loaders_inline_resource_js_data_CiAgICAudGFicyB7CiAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNjY2M7CiAgICB9CiAgICAudGFiLXRpdGxlcyB7CiAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjY2NjOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2IHsKICAgICAgcGFkZGluZzogMTBweDsKICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2LmFjdGl2ZSB7CiAgICAgIGJhY2tncm91bmQtY29sb3I6ICNmMWYxZjE7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCB3aGl0ZTsKICAgIH0KICAgIC5jbG9zZSB7CiAgICAgIG1hcmdpbi1sZWZ0OiAxMHB4OwogICAgICBjb2xvcjogcmVkOwogICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICB9CiAg_C_Users_ghabr_Documents_Angular_ng_weather_src_app_Tab_tabs_component_ts__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(C_Users_ghabr_Documents_Angular_ng_weather_src_app_Tab_tabs_component_ts_css_ngResource_C_Users_ghabr_Documents_Angular_ng_weather_node_modules_ngtools_webpack_src_loaders_inline_resource_js_data_CiAgICAudGFicyB7CiAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNjY2M7CiAgICB9CiAgICAudGFiLXRpdGxlcyB7CiAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjY2NjOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2IHsKICAgICAgcGFkZGluZzogMTBweDsKICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2LmFjdGl2ZSB7CiAgICAgIGJhY2tncm91bmQtY29sb3I6ICNmMWYxZjE7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCB3aGl0ZTsKICAgIH0KICAgIC5jbG9zZSB7CiAgICAgIG1hcmdpbi1sZWZ0OiAxMHB4OwogICAgICBjb2xvcjogcmVkOwogICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICB9CiAg_C_Users_ghabr_Documents_Angular_ng_weather_src_app_Tab_tabs_component_ts__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_src_app_Tab_tabs_component_ts_css_ngResource_C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_node_modules_ngtools_webpack_src_loaders_inline_resource_js_data_CiAgICAudGFicyB7CiAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNjY2M7CiAgICB9CiAgICAudGFiLXRpdGxlcyB7CiAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjY2NjOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2IHsKICAgICAgcGFkZGluZzogMTBweDsKICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2LmFjdGl2ZSB7CiAgICAgIGJhY2tncm91bmQtY29sb3I6ICNmMWYxZjE7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCB3aGl0ZTsKICAgIH0KICAgIC5jbG9zZSB7CiAgICAgIG1hcmdpbi1sZWZ0OiAxMHB4OwogICAgICBjb2xvcjogcmVkOwogICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICB9CiAg_C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_src_app_Tab_tabs_component_ts__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./src/app/Tab/tabs.component.ts.css?ngResource!=!./node_modules/@ngtools/webpack/src/loaders/inline-resource.js?data=CiAgICAudGFicyB7CiAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNjY2M7CiAgICB9CiAgICAudGFiLXRpdGxlcyB7CiAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjY2NjOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2IHsKICAgICAgcGFkZGluZzogMTBweDsKICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2LmFjdGl2ZSB7CiAgICAgIGJhY2tncm91bmQtY29sb3I6ICNmMWYxZjE7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCB3aGl0ZTsKICAgIH0KICAgIC5jbG9zZSB7CiAgICAgIG1hcmdpbi1sZWZ0OiAxMHB4OwogICAgICBjb2xvcjogcmVkOwogICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICB9CiAg!./src/app/Tab/tabs.component.ts */ 9193);
+/* harmony import */ var C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_src_app_Tab_tabs_component_ts_css_ngResource_C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_node_modules_ngtools_webpack_src_loaders_inline_resource_js_data_CiAgICAudGFicyB7CiAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNjY2M7CiAgICB9CiAgICAudGFiLXRpdGxlcyB7CiAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjY2NjOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2IHsKICAgICAgcGFkZGluZzogMTBweDsKICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2LmFjdGl2ZSB7CiAgICAgIGJhY2tncm91bmQtY29sb3I6ICNmMWYxZjE7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCB3aGl0ZTsKICAgIH0KICAgIC5jbG9zZSB7CiAgICAgIG1hcmdpbi1sZWZ0OiAxMHB4OwogICAgICBjb2xvcjogcmVkOwogICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICB9CiAg_C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_src_app_Tab_tabs_component_ts__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_src_app_Tab_tabs_component_ts_css_ngResource_C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_node_modules_ngtools_webpack_src_loaders_inline_resource_js_data_CiAgICAudGFicyB7CiAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNjY2M7CiAgICB9CiAgICAudGFiLXRpdGxlcyB7CiAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjY2NjOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2IHsKICAgICAgcGFkZGluZzogMTBweDsKICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2LmFjdGl2ZSB7CiAgICAgIGJhY2tncm91bmQtY29sb3I6ICNmMWYxZjE7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCB3aGl0ZTsKICAgIH0KICAgIC5jbG9zZSB7CiAgICAgIG1hcmdpbi1sZWZ0OiAxMHB4OwogICAgICBjb2xvcjogcmVkOwogICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICB9CiAg_C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_src_app_Tab_tabs_component_ts__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/core */ 1699);
-/* harmony import */ var _tab_component__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./tab.component */ 1086);
-/* harmony import */ var app_location_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! app/location.service */ 4056);
+/* harmony import */ var app_location_service__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! app/location.service */ 4056);
+/* harmony import */ var _tab_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./tab.component */ 1086);
 var __decorate = undefined && undefined.__decorate || function (decorators, target, key, desc) {
   var c = arguments.length,
     r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc,
@@ -89,33 +88,41 @@ let TabsComponent = class TabsComponent {
   constructor(locationService) {
     this.locationService = locationService;
   }
+  // Lifecycle hook that is called after the component's content has been fully initialized
   ngAfterContentInit() {
+    // Check if there are any active tabs, if not, activate the first tab
     const activeTabs = this.tabs.filter(tab => tab.active);
     if (activeTabs.length === 0) {
       this.selectTab(this.tabs.first);
     }
   }
+  // Method to select a tab and mark it as active
   selectTab(tab) {
     this.tabs.toArray().forEach(t => t.active = false);
     tab.active = true;
   }
+  // Method to close a tab and remove it from the list
   closeTab(tab, event) {
+    // Prevent the click event from propagating to the parent elements
     event.stopPropagation();
     const tabArray = this.tabs.toArray();
     const index = tabArray.indexOf(tab);
+    // Remove the location associated with the tab
     this.locationService.removeLocation(tab.zip);
+    // Remove the tab from the array
     tabArray.splice(index, 1);
+    // If the closed tab was active, activate the previous tab or the first tab if it was the first one
     if (tab.active && tabArray.length > 0) {
       this.selectTab(tabArray[Math.max(index - 1, 0)]);
     }
   }
   static #_ = this.ctorParameters = () => [{
-    type: app_location_service__WEBPACK_IMPORTED_MODULE_2__.LocationService
+    type: app_location_service__WEBPACK_IMPORTED_MODULE_1__.LocationService
   }];
   static #_2 = this.propDecorators = {
     tabs: [{
       type: _angular_core__WEBPACK_IMPORTED_MODULE_3__.ContentChildren,
-      args: [_tab_component__WEBPACK_IMPORTED_MODULE_1__.TabComponent]
+      args: [_tab_component__WEBPACK_IMPORTED_MODULE_2__.TabComponent]
     }]
   };
 };
@@ -124,15 +131,17 @@ TabsComponent = __decorate([(0,_angular_core__WEBPACK_IMPORTED_MODULE_3__.Compon
   template: `
     <div class="tabs">
       <div class="tab-titles">
+        <!-- Loop through each tab and display its title. Add click event to select the tab and close button to remove the tab -->
         <div *ngFor="let tab of tabs" (click)="selectTab(tab)" [class.active]="tab.active">
           {{ tab.title }}
           <span class="close" (click)="closeTab(tab, $event)">&times;</span>
         </div>
       </div>
+      <!-- Placeholder for the content of the selected tab -->
       <ng-content></ng-content>
     </div>
   `,
-  styles: [(C_Users_ghabr_Documents_Angular_ng_weather_src_app_Tab_tabs_component_ts_css_ngResource_C_Users_ghabr_Documents_Angular_ng_weather_node_modules_ngtools_webpack_src_loaders_inline_resource_js_data_CiAgICAudGFicyB7CiAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNjY2M7CiAgICB9CiAgICAudGFiLXRpdGxlcyB7CiAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjY2NjOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2IHsKICAgICAgcGFkZGluZzogMTBweDsKICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2LmFjdGl2ZSB7CiAgICAgIGJhY2tncm91bmQtY29sb3I6ICNmMWYxZjE7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCB3aGl0ZTsKICAgIH0KICAgIC5jbG9zZSB7CiAgICAgIG1hcmdpbi1sZWZ0OiAxMHB4OwogICAgICBjb2xvcjogcmVkOwogICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICB9CiAg_C_Users_ghabr_Documents_Angular_ng_weather_src_app_Tab_tabs_component_ts__WEBPACK_IMPORTED_MODULE_0___default())]
+  styles: [(C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_src_app_Tab_tabs_component_ts_css_ngResource_C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_node_modules_ngtools_webpack_src_loaders_inline_resource_js_data_CiAgICAudGFicyB7CiAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNjY2M7CiAgICB9CiAgICAudGFiLXRpdGxlcyB7CiAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjY2NjOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2IHsKICAgICAgcGFkZGluZzogMTBweDsKICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgfQogICAgLnRhYi10aXRsZXMgZGl2LmFjdGl2ZSB7CiAgICAgIGJhY2tncm91bmQtY29sb3I6ICNmMWYxZjE7CiAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCB3aGl0ZTsKICAgIH0KICAgIC5jbG9zZSB7CiAgICAgIG1hcmdpbi1sZWZ0OiAxMHB4OwogICAgICBjb2xvcjogcmVkOwogICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICB9CiAg_C_Users_ghabr_OneDrive_Documentos_Angular_ng_weather_src_app_Tab_tabs_component_ts__WEBPACK_IMPORTED_MODULE_0___default())]
 })], TabsComponent);
 
 
@@ -455,6 +464,7 @@ var __decorate = undefined && undefined.__decorate || function (decorators, targ
 
 const LOCATIONS = "locations";
 let LocationService = class LocationService {
+  // Constructor to initialize the service by loading stored locations from localStorage
   constructor() {
     this.locations = [];
     this.locationsSubject = new rxjs__WEBPACK_IMPORTED_MODULE_0__.BehaviorSubject([]);
@@ -465,11 +475,13 @@ let LocationService = class LocationService {
       this.locationsSubject.next(this.locations);
     }
   }
+  // Method to add a new location, update localStorage, and emit the updated state
   addLocation(zipcode) {
     this.locations.push(zipcode);
     localStorage.setItem(LOCATIONS, JSON.stringify(this.locations));
     this.locationsSubject.next(this.locations);
   }
+  // Method to remove an existing location, update localStorage, and emit the updated state
   removeLocation(zipcode) {
     let index = this.locations.indexOf(zipcode);
     if (index !== -1) {
@@ -551,6 +563,7 @@ let WeatherService = class WeatherService {
   static #_3 = this.APPID = '5a4b2d457ecbef9eb2a71e480b947604';
   static #_4 = this.ICON_URL = 'https://raw.githubusercontent.com/udacity/Sunshine-Version-2/sunshine_master/app/src/main/res/drawable-hdpi/';
   static #_5 = this.CACHE_TTL = 2 * 60 * 60 * 1000; // 2 hours in milliseconds
+  // Constructor to initialize the service and subscribe to location changes
   constructor(http, locationService, cacheService) {
     this.http = http;
     this.locationService = locationService;
@@ -560,12 +573,14 @@ let WeatherService = class WeatherService {
       this.updateWeatherConditions(locations);
     });
   }
+  // Method to update weather conditions for all locations
   updateWeatherConditions(locations) {
     this.currentConditions.update(() => []); // Clear current conditions
     for (let loc of locations) {
       this.addCurrentConditions(loc);
     }
   }
+  // Method to add current weather conditions for a specific location
   addCurrentConditions(zipcode) {
     const cacheKey = `currentConditions_${zipcode}`;
     const cachedData = this.cacheService.getItem(cacheKey);
@@ -584,6 +599,7 @@ let WeatherService = class WeatherService {
       });
     }
   }
+  // Method to remove current weather conditions for a specific location
   removeCurrentConditions(zipcode) {
     this.currentConditions.update(conditions => {
       for (let i in conditions) {
@@ -592,9 +608,11 @@ let WeatherService = class WeatherService {
       return conditions;
     });
   }
+  // Method to get the current weather conditions as a read-only signal
   getCurrentConditions() {
     return this.currentConditions.asReadonly();
   }
+  // Method to get the weather forecast for a specific location
   getForecast(zipcode) {
     const cacheKey = `forecast_${zipcode}`;
     const cachedData = this.cacheService.getItem(cacheKey);
@@ -613,6 +631,7 @@ let WeatherService = class WeatherService {
       });
     }
   }
+  // Method to get the appropriate weather icon based on weather condition ID
   getWeatherIcon(id) {
     if (id >= 200 && id <= 232) return WeatherService_1.ICON_URL + "art_storm.png";else if (id >= 501 && id <= 511) return WeatherService_1.ICON_URL + "art_rain.png";else if (id === 500 || id >= 520 && id <= 531) return WeatherService_1.ICON_URL + "art_light_rain.png";else if (id >= 600 && id <= 622) return WeatherService_1.ICON_URL + "art_snow.png";else if (id >= 801 && id <= 804) return WeatherService_1.ICON_URL + "art_clouds.png";else if (id === 741 || id === 761) return WeatherService_1.ICON_URL + "art_fog.png";else return WeatherService_1.ICON_URL + "art_clear.png";
   }
@@ -865,7 +884,7 @@ module.exports = "<router-outlet></router-outlet>\r\n";
 /***/ ((module) => {
 
 "use strict";
-module.exports = "<!-- parent.component.html -->\r\n<app-tabs>\r\n  <app-tab *ngFor=\"let location of currentConditionsByZip()\" [zip]=\"location.zip\" [title]=\"location.data.name + ' (' + location.zip + ')'\">\r\n    <div class=\"well flex\">\r\n      <div>\r\n        <h3>{{location.data.name}} ({{location.zip}})</h3>\r\n        <h4>Current conditions: {{location.data.weather[0].main}}</h4>\r\n        <h4>Temperatures today:</h4>\r\n        <p>\r\n          Current {{location.data.main.temp | number:'.0-0'}}\r\n          - Max {{location.data.main.temp_max | number:'.0-0'}}\r\n          - Min {{location.data.main.temp_min | number:'.0-0'}}\r\n        </p>\r\n        <p>\r\n          <a [routerLink]=\"['/forecast', location.zip]\" >Show 5-day forecast for {{location.data.name}}</a>\r\n        </p>\r\n      </div>\r\n      <div>\r\n        <img [src]=\"weatherService.getWeatherIcon(location.data.weather[0].id)\">\r\n      </div>\r\n    </div>\r\n  </app-tab>\r\n</app-tabs>";
+module.exports = "<app-tabs>\r\n  <!-- Loop through each location in currentConditionsByZip() and create a tab for each one -->\r\n  <app-tab *ngFor=\"let location of currentConditionsByZip()\" [zip]=\"location.zip\" [title]=\"location.data.name + ' (' + location.zip + ')'\">\r\n    <div class=\"well flex\">\r\n      <div>\r\n        <!-- Display the current weather conditions -->\r\n        <h3>{{location.data.name}} ({{location.zip}})</h3>\r\n        <h4>Current conditions: {{location.data.weather[0].main}}</h4>\r\n        <h4>Temperatures today:</h4>\r\n        <p>\r\n          Current {{location.data.main.temp | number:'.0-0'}}\r\n          - Max {{location.data.main.temp_max | number:'.0-0'}}\r\n          - Min {{location.data.main.temp_min | number:'.0-0'}}\r\n        </p>\r\n        <!-- Link to show the 5-day forecast for the location -->\r\n        <p>\r\n          <a [routerLink]=\"['/forecast', location.zip]\" >Show 5-day forecast for {{location.data.name}}</a>\r\n        </p>\r\n      </div>\r\n      <div>\r\n        <!-- Display the weather icon based on the weather condition ID -->\r\n        <img [src]=\"weatherService.getWeatherIcon(location.data.weather[0].id)\">\r\n      </div>\r\n    </div>\r\n  </app-tab>\r\n</app-tabs>";
 
 /***/ }),
 
