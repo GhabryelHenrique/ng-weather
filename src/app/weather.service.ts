@@ -15,20 +15,23 @@ export class WeatherService {
   static ICON_URL = 'https://raw.githubusercontent.com/udacity/Sunshine-Version-2/sunshine_master/app/src/main/res/drawable-hdpi/';
   static CACHE_TTL = 2 * 60 * 60 * 1000; // 2 hours in milliseconds
   private currentConditions = signal<ConditionsAndZip[]>([]);
-
+  
+  // Constructor to initialize the service and subscribe to location changes
   constructor(private http: HttpClient, private locationService: LocationService, private cacheService: CacheService) {
     this.locationService.locations$.subscribe(locations => {
       this.updateWeatherConditions(locations);
     });
   }
-
+  
+  // Method to update weather conditions for all locations
   private updateWeatherConditions(locations: string[]): void {
     this.currentConditions.update(() => []); // Clear current conditions
     for (let loc of locations) {
       this.addCurrentConditions(loc);
     }
   }
-
+  
+  // Method to add current weather conditions for a specific location
   addCurrentConditions(zipcode: string): void {
     const cacheKey = `currentConditions_${zipcode}`;
     const cachedData = this.cacheService.getItem(cacheKey);
@@ -42,7 +45,8 @@ export class WeatherService {
         });
     }
   }
-
+  
+  // Method to remove current weather conditions for a specific location
   removeCurrentConditions(zipcode: string) {
     this.currentConditions.update(conditions => {
       for (let i in conditions) {
@@ -52,11 +56,13 @@ export class WeatherService {
       return conditions;
     });
   }
-
+  
+  // Method to get the current weather conditions as a read-only signal
   getCurrentConditions(): Signal<ConditionsAndZip[]> {
     return this.currentConditions.asReadonly();
   }
-
+  
+  // Method to get the weather forecast for a specific location
   getForecast(zipcode: string): Observable<Forecast> {
     const cacheKey = `forecast_${zipcode}`;
     const cachedData = this.cacheService.getItem(cacheKey);
@@ -76,7 +82,8 @@ export class WeatherService {
       });
     }
   }
-
+  
+  // Method to get the appropriate weather icon based on weather condition ID
   getWeatherIcon(id): string {
     if (id >= 200 && id <= 232)
       return WeatherService.ICON_URL + "art_storm.png";
