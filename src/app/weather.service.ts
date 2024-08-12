@@ -15,7 +15,8 @@ export class WeatherService {
   static ICON_URL = 'https://raw.githubusercontent.com/udacity/Sunshine-Version-2/sunshine_master/app/src/main/res/drawable-hdpi/';
   static CACHE_TTL = 2 * 60 * 60 * 1000; // 2 hours in milliseconds
   private currentConditions = signal<ConditionsAndZip[]>([]);
-
+  
+  // Constructor to initialize the service and subscribe to location changes
   constructor(private http: HttpClient, private locationService: LocationService, private cacheService: CacheService) {
     // Subscribe to location updates and refresh weather conditions accordingly
     this.locationService.locations$.subscribe(locations => {

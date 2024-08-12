@@ -11,6 +11,7 @@ export class LocationService {
 
   locations$ = this.locationsSubject.asObservable();
 
+  // Constructor to initialize the service by loading stored locations from localStorage
   constructor() {
     let locString = localStorage.getItem(LOCATIONS);
     if (locString) {
@@ -19,12 +20,14 @@ export class LocationService {
     }
   }
 
+  // Method to add a new location, update localStorage, and emit the updated state
   addLocation(zipcode: string) {
     this.locations.push(zipcode);
     localStorage.setItem(LOCATIONS, JSON.stringify(this.locations));
     this.locationsSubject.next(this.locations);
   }
 
+  // Method to remove an existing location, update localStorage, and emit the updated state
   removeLocation(zipcode: string) {
     let index = this.locations.indexOf(zipcode);
     if (index !== -1) {
